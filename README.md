@@ -1,4 +1,4 @@
-### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi/kimi/master/gifs/Hi.gif" width="30px">
+### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px">
 
 
 ## 📫 Get in touch
