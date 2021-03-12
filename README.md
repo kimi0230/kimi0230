@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/)      [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230)
 
 ## 📫 Get in touch
-- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/gmail.png" width="20px">](mailto:kimi0230@gmail.com)
+[![Medium](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
 
 
 <!--
