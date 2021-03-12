@@ -1,9 +1,9 @@
 ### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px">
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/)      [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230)
+
 ## 📫 Get in touch
-- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/linkedin.png" width="20px"> Kimi Tsai](https://www.linkedin.com/in/kimi-tsai-354952111/)
-- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/medium.png" width="20px"> @kimi0230](https://medium.com/@kimi0230)
-- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/gmail.png" width="20px"> kimi0230@gmail.com](mailto:kimi0230@gmail.com)
+- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/gmail.png" width="20px">](mailto:kimi0230@gmail.com)
 
 
 <!--
