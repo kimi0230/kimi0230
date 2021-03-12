@@ -1,9 +1,11 @@
 ### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
 
-## 📫 Get in touch
-[![Medium](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
+### Languages
+...
+### Technologies
+...
 
 
 <!--
@@ -19,4 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://img.shields.io
+https://simpleicons.org/
 -->
