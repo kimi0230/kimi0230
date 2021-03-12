@@ -1,4 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi/kimi/master/gifs/Hi.gif" width="30px">
+
+
+## 📫 Get in touch
+- LinkedIn
+- Medium - [kimi0230](https://medium.com/@kimi0230)
+
 
 <!--
 **kimi0230/kimi0230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
