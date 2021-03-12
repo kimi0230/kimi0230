@@ -4,7 +4,7 @@
 ## 📫 Get in touch
 - LinkedIn - [Kimi](https://www.linkedin.com/in/kimi-tsai-354952111/)
 - Medium - [kimi0230](https://medium.com/@kimi0230)
-- <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/gmail.png" width="30px"> [Mail](mailto:kimi0230@gmail.com)
+- [<img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/imgs/gmail.png" width="20px">](mailto:kimi0230@gmail.com)
 
 <!--
 **kimi0230/kimi0230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
