@@ -1,9 +1,11 @@
 ### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=red&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=Linkedin&labelColor=0A66C2&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&labelColor=black&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&labelColor=red&logoColor=white&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
 
 ### Languages
 ...
+[![Go](https://img.shields.io/badge/-Go-white?style=flat&logo=go&logoColor=white&logoWidth=14&labelColor=04acd7)](https://github.com/kimi0230?tab=repositories&q=&type=&language=Go) [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=white&labelColor=3776AB)](https://github.com/kimi0230?tab=repositories&q=&type=&language=python) [![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=white&labelColor=2496ED)](https://github.com/kimi0230?tab=repositories&q=&type=&language=python) [![Vue](https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)](https://github.com/kimi0230?tab=repositories&q=&type=&language=Vue) [![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=JavaScript&logoColor=black&labelColor=F7DF1E)](https://github.com/kimi0230?tab=repositories&q=&type=&language=JavaScript)
 ### Technologies
 ...
 
