@@ -1,4 +1,4 @@
-### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px">
+### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px"> 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-white?style=flat&logo=Linkedin&labelColor=0A66C2&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-white?style=flat&labelColor=black&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&labelColor=red&logoColor=white&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
@@ -9,6 +9,9 @@
 [![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=white&labelColor=2496ED)](https://github.com/kimi0230?tab=repositories&q=&type=&language=Dockerfile) [![Vue](https://img.shields.io/badge/-Vue-white?style=flat&logo=vue.js&logoColor=white&labelColor=4FC08D)](https://github.com/kimi0230?tab=repositories&q=&type=&language=Vue) ![AWS](https://img.shields.io/badge/-AWS-white?style=flat&logo=Amazon-AWS&logoColor=white&labelColor=232F3E) ![Linux](https://img.shields.io/badge/-Linux-white?style=flat&logo=Linux&logoColor=black&labelColor=FCC624)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimi0230&layout=compact)
+
+![](https://visitor-badge.glitch.me/badge?page_id=kimi0230)
 <!--
 **kimi0230/kimi0230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +28,5 @@ Here are some ideas to get you started:
 
 https://img.shields.io
 https://simpleicons.org/
+https://github.com/anuraghazra/github-readme-stats
 -->
