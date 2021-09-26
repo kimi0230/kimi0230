@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 https://img.shields.io
 https://simpleicons.org/
 https://github.com/anuraghazra/github-readme-stats
+https://profilinator.rishav.dev/
 -->
