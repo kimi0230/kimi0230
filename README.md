@@ -1,7 +1,7 @@
 ### Hi there ~ I am Kimi  <img src="https://raw.githubusercontent.com/kimi0230/kimi0230/master/gifs/Hi.gif" width="30px"> 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&labelColor=0A66C2&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&labelColor=0A66C2&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://www.linkedin.com/in/kimi-tsai-354952111/) [![Medium](https://img.shields.io/badge/-Medium-black?style=for-the-badge&labelColor=black&logo=medium&logoColor=white&link=https://www.linkedin.com/in/kimi-tsai-354952111/)](https://medium.com/@kimi0230) [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white&link=mailto:kimi0230@gmail.com)](mailto:kimi0230@gmail.com) [![Gitbook](https://img.shields.io/badge/-Gitbook-9E7CC1?style=for-the-badge&logo=Gitbook&logoColor=white&labelColor=9E7CC1)](https://github.com/kimi0230?tab=repositories&q=Gitbook&type=source&language=)
 
 ### Languages
 
