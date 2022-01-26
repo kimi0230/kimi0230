@@ -13,8 +13,6 @@
 [![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white&labelColor=F46800)](https://github.com/kimi0230?tab=repositories&q=Grafana&type=source&language=) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white&labelColor=232F3E) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black&labelColor=FCC624) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black&labelColor=D24939) [![Heroku](https://img.shields.io/badge/-Heroku-9E7CC1?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=9E7CC1)](https://github.com/kimi0230?tab=repositories&q=heroku&type=source&language=) [![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white&labelColor=22ADF6)](https://github.com/kimi0230?tab=repositories&q=InfluxDB&type=source&language=) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)](https://github.com/kimi0230?tab=repositories&q=MySQL&type=source&language=) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169E1)](https://github.com/kimi0230?tab=repositories&q=PostgreSQL&type=source&language=)
 
 
-PostgreSQL
-
 ![Kimi's github status](https://github-readme-stats.vercel.app/api?username=kimi0230&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimi0230&layout=compact)
 
