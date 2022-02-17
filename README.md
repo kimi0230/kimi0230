@@ -16,7 +16,7 @@
 ![Kimi's github status](https://github-readme-stats.vercel.app/api?username=kimi0230&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimi0230&layout=compact)
 
-[](https://visitor-badge.glitch.me/badge?page_id=kimi0230)
+<!-- [](https://visitor-badge.glitch.me/badge?page_id=kimi0230)-->
 ![](https://steel-quark-crabapple.glitch.me/badge?page_id=kimi0230)
 
 <!--
