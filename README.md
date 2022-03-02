@@ -16,7 +16,8 @@
 ![Kimi's github status](https://github-readme-stats.vercel.app/api?username=kimi0230&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimi0230&layout=compact)
 
-![vistor](https://steel-quark-crabapple.glitch.me/badge?page_id=kimi0230)
+<!-- ![vistor](https://steel-quark-crabapple.glitch.me/badge?page_id=kimi0230) -->
+![vistor](https://gogopowerkimibot.herokuapp.com/badge?page_id=kimi0230)
 
 <!--
 **kimi0230/kimi0230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
